@@ -1,0 +1,65 @@
+2025-11-25 14:01:26 Parm-1 — temp 27, light 9833, humi 45
+2025-11-25 14:01:26 Parm-2 — temp 29, light 7360, humi 60
+2025-11-25 14:01:26 Parm-3 — temp 22, light 8645, humi 52
+2025-11-25 14:01:26 Parm-4 — temp 20, light 6812, humi 59
+-1, 27, 9833, 45
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:26.002113, Parm-2, 29, 7360, 60
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:26.002113, Parm-3, 22, 8645, 52
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:26.002113, Parm-4, 20, 6812, 59
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:26.003114, Parm-5, 23, 7370, 46
+2025-11-25 14:01:36 Parm-1 — temp 20, light 9502, humi 61
+2025-11-25 14:01:36 Parm-3 — temp 21, light 5471, humi 60
+2025-11-25 14:01:36 Parm-2 — temp 25, light 6974, humi 40
+2025-11-25 14:01:36 Parm-4 — temp 24, light 9281, humi 65
+2025-11-25 14:01:36 Parm-5 — temp 29, light 5130, humi 53
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:36.002375, Parm-1, 20, 9502, 61
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:36.002882, Parm-3, 21, 5471, 60
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:36.002882, Parm-2, 25, 6974, 40
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:36.003402, Parm-4, 24, 9281, 65
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:36.003916, Parm-5, 29, 5130, 53
+2025-11-25 14:01:46 Parm-1 — temp 25, light 8527, humi 67
+2025-11-25 14:01:46 Parm-4 — temp 28, light 5947, humi 58
+2025-11-25 14:01:46 Parm-3 — temp 28, light 6603, humi 61
+2025-11-25 14:01:46 Parm-2 — temp 22, light 5247, humi 60
+2025-11-25 14:01:46 Parm-5 — temp 26, light 8568, humi 41
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:46.003107, Parm-1, 25, 8527, 67
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:46.003613, Parm-4, 28, 5947, 58
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:46.003613, Parm-3, 28, 6603, 61
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:46.003613, Parm-2, 22, 5247, 60
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:46.004621, Parm-5, 26, 8568, 41
+2025-11-25 14:01:56 Parm-1 — temp 29, light 6798, humi 55
+2025-11-25 14:01:56 Parm-4 — temp 23, light 5658, humi 58
+2025-11-25 14:01:56 Parm-3 — temp 25, light 6126, humi 53
+2025-11-25 14:01:56 Parm-2 — temp 25, light 8119, humi 64
+2025-11-25 14:01:56 Parm-5 — temp 21, light 5407, humi 64
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:56.003977, Parm-1, 29, 6798, 55
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:56.003977, Parm-4, 23, 5658, 58
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:56.004503, Parm-3, 25, 6126, 53
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:56.004503, Parm-2, 25, 8119, 64
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:01:56.005044, Parm-5, 21, 5407, 64
+2025-11-25 14:02:06 Parm-4 — temp 20, light 8450, humi 52
+2025-11-25 14:02:06 Parm-1 — temp 23, light 6763, humi 46
+2025-11-25 14:02:06 Parm-2 — temp 22, light 7898, humi 56
+2025-11-25 14:02:06 Parm-3 — temp 23, light 9016, humi 57
+2025-11-25 14:02:06 Parm-5 — temp 30, light 6939, humi 49
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:06.004613, Parm-4, 20, 8450, 52
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:06.004613, Parm-1, 23, 6763, 46
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:06.005156, Parm-2, 22, 7898, 56
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:06.005156, Parm-3, 23, 9016, 57
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:06.005683, Parm-5, 30, 6939, 49
+2025-11-25 14:02:16 Parm-1 — temp 30, light 6198, humi 46
+2025-11-25 14:02:16 Parm-4 — temp 21, light 5402, humi 66
+2025-11-25 14:02:16 Parm-3 — temp 26, light 5384, humi 52
+2025-11-25 14:02:16 Parm-2 — temp 27, light 7543, humi 55
+2025-11-25 14:02:16 Parm-5 — temp 25, light 8269, humi 57
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:16.005164, Parm-1, 30, 6198, 46
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:16.005164, Parm-4, 21, 5402, 66
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:16.005712, Parm-3, 26, 5384, 52
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:16.005712, Parm-2, 27, 7543, 55
+[DEBUG] insert_sensor_data 호출 (DB 드라이버 없음): 2025-11-25 14:02:16.006236, Parm-5, 25, 8269, 57
+MySQL 드라이버가 없어 get_sensor_data는 샘플 데이터로 대체합니다.
+===== 센서별 시간별 평균 온도 (텍스트 그래프) =====
+Parm-1 2025-11-25 14:00  25.0°C #########################
+Parm-2 2025-11-25 14:00  27.0°C ###########################
+===============================================
+습도 90% 이상 포인트는 없습니다(또는 데이터상 없음).
